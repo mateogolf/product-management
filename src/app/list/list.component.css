@@ -1,0 +1,17 @@
+#products{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.product{
+    margin: 5px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    widows: 100px;
+    height: 100px;
+}
